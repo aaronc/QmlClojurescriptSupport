@@ -1,0 +1,3 @@
+module QmlClojurescript
+plugin QmlClojurescriptSupport
+
